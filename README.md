@@ -1,3 +1,5 @@
+🚨 *ACHTUNG:* Dieses Repository ist veraltet. Zukünftige Änderungen an Projektseiten müssen direkt [im Repository für Arachne 4](/dainst/arachne4/tree/main/frontend/con10t) erfolgen.
+
 # con10t  
 
 Das vorliegende Repositorium bildet die strukturelle und inhaltliche Grundlage für Arachne-Projektseiten, die unter https://arachne.dainst.org/projects zugänglich sind. 
