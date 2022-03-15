@@ -1,6 +1,6 @@
 > 🚨 **ACHTUNG!**
 >
-> Dieses Repository ist veraltet. Zukünftige Änderungen an Projektseiten müssen direkt [im Repository für Arachne 4](/dainst/arachne4/tree/main/frontend/con10t) erfolgen.
+> Dieses Repository ist veraltet. Zukünftige Änderungen an Projektseiten müssen direkt [im Repository für Arachne 4](https://github.com/dainst/arachne4/tree/main/frontend/con10t) erfolgen.
 
 # con10t  
 
